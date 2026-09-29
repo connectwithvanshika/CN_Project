@@ -53,3 +53,6 @@ All four machines are connected to the same private LAN/Wi-Fi network.
                                       10.7.20.243
                                       Backend B
                                       Port 3002
+```
+
+To do - how to run the backends 
