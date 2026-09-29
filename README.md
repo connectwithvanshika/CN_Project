@@ -1,4 +1,4 @@
-# Lost Packets 📡
+# Lost Packets 
 
 ## Computer Networks Project
 
@@ -6,18 +6,18 @@ A multi-machine Computer Networks project demonstrating networking concepts usin
 
 ---
 
-## 👥 Team Members
+## Team Members
 
 | Member | Machine | IP Address | Role |
 |---|---|---|---|
-| **Riya** | Mac 1 | `10.7.19.168` | Private DNS Server + Test Client |
-| **Vanshika** | Mac 2 | `10.7.14.3` | Edge Reverse Proxy + Load Balancer |
-| **Nitanshu** | Mac 3 | `10.7.6.33` | Backend Server A |
-| **Krish** | Mac 4 | `10.7.20.243` | Backend Server B + Test Client |
+| **Riya Garg** | Mac 1 | `10.7.19.168` | Private DNS Server + Test Client |
+| **Vanshika Yadav** | Mac 2 | `10.7.14.3` | Edge Reverse Proxy + Load Balancer |
+| **Nitanshu Goyal** | Mac 3 | `10.7.6.33` | Backend Server A |
+| **Krish Garg** | Mac 4 | `10.7.20.243` | Backend Server B + Test Client |
 
 ---
 
-## 🌐 Network Information
+## Network Information
 
 All four machines are connected to the same private LAN/Wi-Fi network.
 
@@ -31,7 +31,7 @@ All four machines are connected to the same private LAN/Wi-Fi network.
 
 ---
 
-## 🖥️ Network Architecture
+## Network Architecture
 
 ```text
                          Private LAN / Wi-Fi
