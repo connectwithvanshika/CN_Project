@@ -66,7 +66,7 @@ hostname
 
 Sequence of events for `https://app.elu.test:8443/api/status`:
 
-![Phase 1 request flow](../assets/request-flow.png)
+![Phase 1 request flow](../01_Network_Inventory/request-flow.png)
 
 
 | Step | Protocol | TCP/IP layer | OSI layer | Ports |
