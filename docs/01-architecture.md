@@ -13,7 +13,7 @@
 
 ## Topology
 
-![Phase 1 network topology](../assets/network-topology.png)
+![Phase 1 network topology](../01_Network_Inventory/Team_network_details.png)
 
 
 ## Roles and Services
